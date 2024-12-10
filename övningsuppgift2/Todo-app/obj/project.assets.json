@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/ShoppingList.csproj",
-      "projectName": "ShoppingList",
-      "projectPath": "/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/ShoppingList.csproj",
+      "projectUniqueName": "/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/Todo-app.csproj",
+      "projectName": "Todo-app",
+      "projectPath": "/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/Todo-app.csproj",
       "packagesPath": "/Volumes/T7/.nuget/packages/",
-      "outputPath": "/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/",
+      "outputPath": "/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [

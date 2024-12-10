@@ -1,0 +1,14 @@
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/bin/Debug/net9.0/Todo-app
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/bin/Debug/net9.0/Todo-app.deps.json
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/bin/Debug/net9.0/Todo-app.runtimeconfig.json
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/bin/Debug/net9.0/Todo-app.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/bin/Debug/net9.0/Todo-app.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/Todo-app.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/Todo-app.AssemblyInfoInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/Todo-app.AssemblyInfo.cs
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/Todo-app.csproj.CoreCompileInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/Todo-app.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/refint/Todo-app.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/Todo-app.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/Todo-app.genruntimeconfig.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/övningsuppgift2/Todo-app/obj/Debug/net9.0/ref/Todo-app.dll

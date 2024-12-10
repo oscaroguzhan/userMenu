@@ -40,7 +40,8 @@ internal class Program
             Console.Clear();
             if (products.Count > 0)
             {
-                Console.WriteLine("-------- Welcome to ShoppingList!  ------------");
+                Console.Clear();
+                Console.WriteLine("-------- Your ShoppingList!  ------------");
                 foreach (var product in products)
                 {
                     Console.WriteLine($"{product.ProductName} - {product.ProductPrice:F2} kr ");
@@ -55,24 +56,65 @@ internal class Program
             }
 
             Console.WriteLine();
-            Console.WriteLine(" --------- Choose an option: ------------ ");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(" --------- What would you like to do? --------: ");
             Console.WriteLine("1. Add Product");
             Console.WriteLine("2. Update Product");
             Console.WriteLine("3. Delete Product");
             Console.WriteLine("4. Exit");
             Console.WriteLine("-----------------------------------------");
-
+            Console.ForegroundColor = ConsoleColor.White;
             switch (Console.ReadLine())
             {
                 case "1":
                     AddProduct();
                     break;
+                case "2":
+                    UpdateProduct();
+                    break;
+                case "3":
+                    RemoveProduct();
+                    break;
+
                 case "4":
-                    isProgramRunning = false;
+                    ExitOption();
+                    break;
+                default:
+                    InvalidOption();
                     break;
             }
-            
+
+            Console.ReadKey();
         } while (isProgramRunning);
+        
+    }
+
+    private static void ExitOption()
+    {
+        Console.WriteLine("Do you want to exit? (Y/N): ");
+        var option = Console.ReadLine()!.ToLower();
+        if (option.Equals("Y", StringComparison.CurrentCultureIgnoreCase))
+        {
+            Console.WriteLine("Thank you for using the ShoppingList!");
+            Console.WriteLine("See you again!");
+        }
+        Environment.Exit(0);
+    }
+
+    private static void RemoveProduct()
+    {
+        
+    }
+
+    private static void UpdateProduct()
+    {
+        
+    }
+
+    private static void InvalidOption()
+    {
+        Console.Clear();
+        Console.WriteLine("Invalid option, please try again!");
         
     }
 

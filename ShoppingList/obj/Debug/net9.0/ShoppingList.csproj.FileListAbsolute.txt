@@ -12,3 +12,17 @@
 /Volumes/T7/Workspace/NETProjects/Övningsuppgift-1/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.pdb
 /Volumes/T7/Workspace/NETProjects/Övningsuppgift-1/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.genruntimeconfig.cache
 /Volumes/T7/Workspace/NETProjects/Övningsuppgift-1/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ref/ShoppingList.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/bin/Debug/net9.0/ShoppingList
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/bin/Debug/net9.0/ShoppingList.deps.json
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/bin/Debug/net9.0/ShoppingList.runtimeconfig.json
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/bin/Debug/net9.0/ShoppingList.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/bin/Debug/net9.0/ShoppingList.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.AssemblyInfoInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.AssemblyInfo.cs
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.csproj.CoreCompileInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/refint/ShoppingList.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ShoppingList.genruntimeconfig.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/ShoppingList/obj/Debug/net9.0/ref/ShoppingList.dll
