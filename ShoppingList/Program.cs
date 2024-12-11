@@ -137,7 +137,49 @@ internal class Program
 
     private static void UpdateProduct()
     {
-        
+            Console.Clear();
+            // Display the current list of products
+            Console.WriteLine("Here are the available products:");
+            for (int i = 0; i < products.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}. {products[i].ProductName} - {products[i].ProductPrice:F2} kr");
+            }
+    
+            // Ask the user to select a product to update
+            Console.WriteLine("Enter the number of the product you want to update:");
+            var input = Console.ReadLine()!;
+            int.TryParse(input, out int productIndex);
+            productIndex--; // Convert to zero-based index
+
+            if (productIndex >= 0 && productIndex < products.Count)
+            {
+                // Ask for updated details
+                Console.Write("Enter the new product name (leave blank to keep the same): ");
+                var newName = Console.ReadLine()!;
+
+                Console.Write("Enter the new product price (leave blank to keep the same): ");
+                var newPriceInput = Console.ReadLine()!;
+
+                // Update the product details
+                if (!string.IsNullOrEmpty(newName))
+                {
+                    products[productIndex].ProductName = newName;
+                }
+
+                if (double.TryParse(newPriceInput, out double newPrice) && newPrice >= 0)
+                {
+                    products[productIndex].ProductPrice = newPrice;
+                }
+
+                Console.WriteLine("Product updated successfully!");
+                Console.WriteLine("Press any key to return to the Main Menu...");
+            }
+            else
+            {
+                Console.WriteLine("Invalid selection. Press any key to return to the Main Menu...");
+            }
+
+            Console.ReadKey();
     }
 
     private static void InvalidOption()
