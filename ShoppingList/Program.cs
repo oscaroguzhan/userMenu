@@ -97,13 +97,42 @@ internal class Program
         {
             Console.WriteLine("Thank you for using the ShoppingList!");
             Console.WriteLine("See you again!");
+            Environment.Exit(0);
         }
-        Environment.Exit(0);
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(" --------- What would you like to do? --------: ");
+            Console.WriteLine("1. Add Product");
+            Console.WriteLine("2. Update Product");
+            Console.WriteLine("3. Delete Product");
+            Console.WriteLine("4. Exit");
+            Console.WriteLine("-----------------------------------------");
+        }
+        
     }
 
     private static void RemoveProduct()
     {
-        
+        Console.Clear();
+        for (int i = 0; i < products.Count; i++)
+        {
+            Console.WriteLine($"{i + 1}. {products[i].ProductName}");
+        }
+        Console.WriteLine("Which one do you want to remove? : ");
+        var option = Console.ReadLine()!;
+        Console.WriteLine("Press any key to continue...");
+        int.TryParse(option, out int indexOutput);
+        indexOutput--;
+        if (indexOutput >= 0 && indexOutput <= products.Count)
+        {
+            products.RemoveAt(indexOutput);
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Press any key to return to the Main Menu...");
+            
+        }
     }
 
     private static void UpdateProduct()
@@ -115,11 +144,13 @@ internal class Program
     {
         Console.Clear();
         Console.WriteLine("Invalid option, please try again!");
-        
+        Console.WriteLine("Press any key to continue...");
+        Console.ReadKey();
     }
 
     private static void AddProduct()
     {
+        // get instance of the product object
         Product product = new Product();
         Console.Clear();
         Console.Write("Enter Product Name: ");
@@ -135,11 +166,7 @@ internal class Program
         else
         {
             products.Add(product);
+            Console.WriteLine("Press any key to continue...");
         } ;
-
-        
-       
-
-       
     }
 }
