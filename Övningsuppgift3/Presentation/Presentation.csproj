@@ -8,4 +8,8 @@
         <RootNamespace>JSONbaseradUserMenuApp</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Business\Business.csproj" />
+    </ItemGroup>
+
 </Project>

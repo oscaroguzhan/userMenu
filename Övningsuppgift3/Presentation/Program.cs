@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using JSONBaseradUserMenuApp;
 
-Console.WriteLine("Hello, World!");
+MenuService menuService = new();
+menuService.ShowMenu();

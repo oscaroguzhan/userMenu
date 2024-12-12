@@ -1,0 +1,11 @@
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/bin/Debug/net9.0/Dtos.deps.json
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/bin/Debug/net9.0/Dtos.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/bin/Debug/net9.0/Dtos.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/Dtos.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/Dtos.AssemblyInfoInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/Dtos.AssemblyInfo.cs
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/Dtos.csproj.CoreCompileInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/Dtos.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/refint/Dtos.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/Dtos.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Dtos/obj/Debug/net9.0/ref/Dtos.dll

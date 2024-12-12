@@ -1,6 +1,9 @@
 namespace Business.Helpers;
 
-public class UniqueIdentifierGenerator
+public static class UniqueIdentifierGenerator
 {
-    
-}
+    public static string Generate()
+    {
+        return Guid.NewGuid().ToString().Split('-')[0];
+    }
+ }

@@ -1,0 +1,15 @@
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/bin/Debug/net9.0/Domain.deps.json
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/bin/Debug/net9.0/Domain.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/bin/Debug/net9.0/Domain.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/bin/Debug/net9.0/Dtos.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/bin/Debug/net9.0/Dtos.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.csproj.Up2Date
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/Domain.pdb
+/Volumes/T7/Workspace/NETProjects/övningsuppgifter/Övningsuppgifter/Övningsuppgift3/Domain/obj/Debug/net9.0/ref/Domain.dll
