@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Business.Models;
 
-Console.WriteLine("Hello, World!");
+var regularUser = new RegularUser();
+var adminUser = new AdminUser();
