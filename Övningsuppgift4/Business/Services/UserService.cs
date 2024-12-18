@@ -6,7 +6,7 @@ namespace Business.Services;
 
 public class UserService : IUserService
 {
-    // create an instance of useBase list
+    // create a new list that instance of useBase
     public List<UserBase> _users = [];
     
     public void AddUser(UserBase user)
@@ -18,14 +18,13 @@ public class UserService : IUserService
     {
         try
         {
-
+            return _users;
         }
         catch (Exception ex)
         {
             Debug.WriteLine(ex.Message);
             return null!;
         }
-        return _users;
     }
 
     public UserBase GetUserById(int id)
